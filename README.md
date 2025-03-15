@@ -13,5 +13,5 @@ This will require some light knowledge on python and a little bit of research on
 5. add that key to the file
 6. make a discord account for the self bot and get its token
 7. add the token to the file
-8. Run the file and it should work
+8. Run the file and it should work. 
 If there are any issues please let me know. I am pretty new to python.
